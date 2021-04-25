@@ -1,0 +1,8 @@
+main: me.jonaqhan.npic.Main
+name: SimpleNPC
+version: 1.0
+author: Jonaqhan
+
+commands:
+  NPC:
+   description: create a npc
